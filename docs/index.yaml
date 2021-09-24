@@ -16,5 +16,5 @@ entries:
     name: airflow
     urls:
     - http://thehong.xyz/airflow-eks-helm-chart/airflow-1.0.1.tgz
-    version: 1.0.0
+    version: 1.0.1
 generated: "2020-09-10T14:16:33.303424305Z"
